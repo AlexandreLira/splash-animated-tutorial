@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "splash-animation-tutorial",
+    "slug": "splash-animation-tutorial",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
